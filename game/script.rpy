@@ -53,7 +53,7 @@ label alarm:
             play sound "music/sfx/Loud_Alarm_Clock_Buzzer.wav"
             "8:34 AM"
             with hpunch
-            CoWorker angry "FUCK"
+            CoW angry "FUCK"
         else:
             jump alarm
       "get up":

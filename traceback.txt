@@ -1,15 +1,15 @@
 ﻿I'm sorry, but an uncaught exception occurred.
 
 While running game code:
-  File "game/script.rpy", line 99, in script
-    coworker side happy "hi"
+  File "game/script.rpy", line 56, in script
+    coworker angry "FUCK"
 Exception: Sayer 'coworker' is not defined.
 
 -- Full Traceback ------------------------------------------------------------
 
 Full traceback:
-  File "game/script.rpy", line 99, in script
-    coworker side happy "hi"
+  File "game/script.rpy", line 56, in script
+    coworker angry "FUCK"
   File "C:\Users\B-Chan\Documents\Projects\renpy-7.0.0-sdk\renpy\ast.py", line 624, in execute
     who = eval_who(self.who, self.who_fast)
   File "C:\Users\B-Chan\Documents\Projects\renpy-7.0.0-sdk\renpy\ast.py", line 537, in eval_who
@@ -18,5 +18,5 @@ Exception: Sayer 'coworker' is not defined.
 
 Windows-8-6.2.9200
 Ren'Py 7.0.0.196
-COFFEE 1.102
-Mon Aug 13 23:24:48 2018
+COFFEE 1.103
+Tue Aug 14 01:18:28 2018
