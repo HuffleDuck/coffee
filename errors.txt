@@ -2,9 +2,8 @@
 errors listed below, and try again.
 
 
-File "game/CoWorker.rpy", line 40: end of line expected.
-    attribute_fuction Picker(["angry head_angry right_arm_hips"])
-    ^
+File "game/CoWorker.rpy", line 38: is not terminated with a newline. (Check strings and parenthesis.)
+    image side coworker_side = LayeredImageProxy("coworker", Transform(crop=(0, 0, 362, 362))
 
 Ren'Py Version: Ren'Py 7.0.0.196
-Mon Aug 13 19:46:33 2018
+Thu Aug 23 01:35:38 2018
