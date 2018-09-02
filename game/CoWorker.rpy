@@ -35,4 +35,4 @@ layeredimage coworker:
     group head auto:
         attribute neutral default
 
-image side coworker_side =  LayeredImageProxy("coworker", Transform(crop=(0, 0, 800, 550), zoom=0.8, xoffset=-80, yoffset=-200))
+image side coworker_side =  LayeredImageProxy("coworker", Transform(crop=(0, 0, 800, 550), zoom=0.8, xoffset=40, yoffset=-200))
