@@ -71,7 +71,7 @@ label alarm:
         "nice teeth brushing"
         "empty fridge"
         "what a loser"
-    elif snooze > 0 and snooze > 3:
+    elif snooze > 0 and snooze < 3:
         "rush thru morning"
     else:
         "fUCK!!"
@@ -83,7 +83,7 @@ label alarm:
         Rival "Yo, you’re up bright and early."
         Rival ""
         CW ""
-    elif snooze > 0 and snooze > 3:
+    elif snooze > 0 and snooze < 3:
         show rival
         Rival "Ypu take a big dump this morning or somthing?"
         CW "Hey, I wasn't that late!"
